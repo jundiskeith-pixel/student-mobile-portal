@@ -20,17 +20,17 @@ purposes. No real student records are used.
 **Usage example:**
 
 ```jsx
-import StudentProfile from "./StudentProfile";
+ import StudentProfile from "./StudentProfile";
 
-function App() {
-  return (
-    <div>
-      <StudentProfile />
-    </div>
-  );
-}
+   function App() {
+     return (
+       <div>
+         <StudentProfile />
+       </div>
+     );
+   }
 
-export default App;
+   export default App;
 ```
 
 Import `StudentProfile` and render it inside any parent component, such
