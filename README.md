@@ -35,3 +35,6 @@ export default App;
 
 Import `StudentProfile` and render it inside any parent component, such
 as `App.jsx`, to display the profile section on the page.
+
+---
+*Author: Keith Ramzel A. Jundis*
