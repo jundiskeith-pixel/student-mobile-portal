@@ -39,5 +39,3 @@ as `App.jsx`, to display the profile section on the page.
 ---
 *Author: Keith Ramzel A. Jundis*
 
-
-
